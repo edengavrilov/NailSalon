@@ -1,7 +1,3 @@
-בטח, אין בעיה. הורדתי את כל האימוג'ים והחלפתי אותם בסימנים נקיים מהמקלדת (כמו #, *, ו--). זה באמת נראה הרבה יותר "הייטקי" ונקי ככה.
-
-הנה הנוסח המעודכן בשבילך:
-
 The Perfect Queue - Smart Appointment Management System
 Final Project | Java OOP
 -- Overview
